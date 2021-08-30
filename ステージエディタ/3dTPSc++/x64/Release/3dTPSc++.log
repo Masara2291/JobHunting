@@ -1,0 +1,43 @@
+﻿  billboard.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  block.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  camera.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  createstage.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  effect3d.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fade.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  field.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  game.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  library.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  light.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  manager.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  mode.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  model.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  renderer.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene2d.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene3d.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コンパイル中...
+  tile.cpp
+c:\users\gsp028\desktop\授業\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\1回目\ステージエディタ\3dtpsc++\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
