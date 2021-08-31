@@ -1,5 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 
+//===============================================
+//
+// ステージ制作処理 (createstage.cpp)
+// Author : 東村　哲士
+//
+//===============================================
+
 #include "CreateStage.h"
 
 #include "block.h"
